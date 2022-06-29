@@ -32,10 +32,10 @@ export function Subscribe() {
           <Logo />
 
           <h1 className="mt-8 text-[2.5rem] leading-tight">
-            Construa uma <strong className="text-blue-500">aplicação completa</strong>, do zero, com <strong className="text-blue-500">React</strong>
+            Venha aprender <strong className="text-blue-500">Salesforce</strong>, do zero, com a <strong className="text-blue-500">Kompetenza</strong>
           </h1>
           <p className="mt-4 text-gray-200 leading-relaxed">
-            Em apenas uma semana você vai dominar na prática uma das tecnologias mais utilizadas e com alta demanda para acessar ás melhores oportunidades do mercado
+            Com instrutor certificado <strong className="text-blue-500"> Nuno Fonseca </strong> e a restante equipa, que está sempre disponível para te ajudar.
           </p>
         </div>
 
@@ -61,7 +61,7 @@ export function Subscribe() {
                 disabled={loading}
                 className="mt-4 bg-green-500 uppercase py-4 rounded font-bold text-sm hover:bg-green-700 transition-colors disabled:opacity-50"
                 >
-                Garantir minha vaga
+                Inscrever
               </button>
           </form>
         </div>

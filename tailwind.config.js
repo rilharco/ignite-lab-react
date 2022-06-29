@@ -6,25 +6,25 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage:{
-        blur: 'url(/src/assets/blur-background.png)'
+        blur: 'url(/src/assets/kz-background.png)'
       },
       fontFamily:{
         sans: 'Roboto, sans-serif',
       },
       colors: {
         green: {
-          300: '#00B37E',
-          500: '#00875F',
-          700: '#015F43',
+          300: '#c12424',
+          500: '#A11917',
+          700: '#8e1212',
         },
         blue: {
-          500: '#81D8F7',
+          500: '#3E4282',
         },
         orange: {
           500: '#FBA94C',
         },
         red: {
-          500: '#F75A68',
+          500: '#A11917',
         },
         gray: {
           100: '#E1E1E6',
